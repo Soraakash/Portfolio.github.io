@@ -492,6 +492,9 @@ nav .closemenu{
 }
 /* Responsiveness*/
 @media(max-width:800px){
+     html{
+        overflow-x: hidden;
+    }
     .ic2{
         display: block;
     }
